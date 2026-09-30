@@ -6,4 +6,4 @@ new_tasks.remove('task_007')
 
 print(new_tasks)
 print(completed_tasks)
-print(new_tasks [2])
+print(new_tasks[2])
